@@ -1,0 +1,14 @@
+# Build outputs
+csv2jsonl
+csv2jsonl.exe
+main
+main.exe
+dist/
+
+# Generated data and profiles
+*.jl
+*.ndjson
+*.prof
+*.test
+coverage.out
+.DS_Store
