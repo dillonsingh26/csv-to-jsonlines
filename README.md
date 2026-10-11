@@ -180,4 +180,4 @@ Miller, Thomas W. 2015. *Modeling Techniques in Predictive Analytics with Python
 
 ## Use of AI assistants
 
-<!-- TODO (Dillon): describe in your own words how you used AI assistants on this assignment. -->
+Claude AI was used for assistance with code creation for this assignment. 
